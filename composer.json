@@ -23,7 +23,7 @@
     "prefer-stable": true,
     "require": {
         "yiisoft/yii2": ">=2.0.13",
-        "ingeneo/onelogin-php-saml": "dev-master"
+        "ingeneo/onelogin-php-saml": "~3.0.0"
     },
     "require-dev": {
         "phpunit/phpunit": "5.0.*"
