@@ -1,6 +1,6 @@
 <?php
 
-namespace asasmoyo\yii2saml\actions;
+namespace ingeneo\yii2saml\actions;
 
 use yii\base\Exception;
 use yii\base\InvalidConfigException;

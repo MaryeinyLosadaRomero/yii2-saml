@@ -1,6 +1,6 @@
 <?php
 
-namespace asasmoyo\yii2saml\actions;
+namespace ingeneo\yii2saml\actions;
 
 use yii\base\Action;
 use Yii;
@@ -12,14 +12,14 @@ abstract class BaseAction extends Action
 {
 
     /**
-     * This variable should be the component name of asasmoyo\yii2saml\Saml.
+     * This variable should be the component name of ingeneo\yii2saml\Saml.
      * @var string
      */
     public $samlInstanceName = 'saml';
 
     /**
-     * This variable hold the instance of asasmoyo\yii2saml\Saml.
-     * @var \asasmoyo\yii2saml\Saml
+     * This variable hold the instance of ingeneo\yii2saml\Saml.
+     * @var \ingeneo\yii2saml\Saml
      */
     protected $samlInstance;
 

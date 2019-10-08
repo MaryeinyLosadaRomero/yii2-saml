@@ -1,6 +1,6 @@
 <?php
 
-namespace asasmoyo\yii2saml;
+namespace ingeneo\yii2saml;
 
 use Yii;
 use Exception;
